@@ -1,0 +1,218 @@
+#bodymain{
+    margin-top: 30px;
+    margin-left: 20px;
+}
+
+.topimg{
+display: flex;
+}
+#body{
+display: flex;
+
+}
+#box1{
+    height: 250px;
+    width: 250px;
+    background-color: rgb(241, 239, 239);
+    background-image: url(../img\ 1.jpeg);
+}
+#box2{
+    height: 250px;
+    width: 250px;
+     margin-left: 10px;
+     background-color: rgb(241, 239, 239); 
+     background-image: url(../img\ 2.jpeg);
+}
+#box3{
+    height: 250px;
+    width: 250px;
+    margin-top: 10px;
+    background-color: rgb(241, 239, 239);
+    background-image: url(../img\ 3.jpeg);
+}
+#box4{
+    height: 250px;
+    width: 250px;
+    margin-left: 10px;
+    margin-top: 10px;
+    background-color: rgb(241, 239, 239);
+    background-image: url(../img\ 4.jpeg);
+}
+#clothing{
+    width: 400px;
+    margin-left: 40px;
+}
+.clogray{
+    color:rgba(163, 161, 161, 1) ;
+}
+
+/* color circle */
+.colorbtn{
+    display: flex;
+}
+.colbtn{
+    cursor: pointer;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width:35px;
+    height: 35px;
+    margin-left:5px;
+    border:1px
+    solid lightgray;
+    text-align:center;
+    
+}
+#cirbl{
+    height: 15px;
+    width: 15px;
+    border-radius: 50%;
+    background-color: black;
+}
+#cirg{
+    height: 15px;
+    width: 15px;
+    border-radius: 50%;
+    background-color: rgb(8, 187, 8);
+}
+#cirw{
+    height: 15px;
+    width: 15px;
+    border-radius: 50%;
+    background-color: rgb(241, 235, 235);
+}
+#cirbr{
+    height: 15px;
+    width: 15px;
+    border-radius: 50%;
+    background-color: brown;
+}
+
+.colorjsbtn{
+    border: 3px solid black;
+   }
+.sizebtn{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width:35px;
+    height: 35px;
+    margin-left:5px;
+    border:1px
+    solid lightgray;
+    text-align:center;
+    cursor: pointer;
+}
+
+.sixejsbtn{
+     border: 3px solid black;
+    }
+#qtybtn{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.wrapper{
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: 1px solid rgb(10, 0, 0);
+    height: 40px;
+    width: 100px;
+}
+.wrapper span{
+    cursor: pointer;
+    width: 100%;
+    text-align: center;
+    font-weight: 600;
+    
+}
+.wrapper span.num{
+    pointer-events: none;
+}
+
+#addtocart{ 
+    cursor: pointer;
+    background-color: black;
+    margin-left: 10px;
+    height: 40px;
+    width: 200px;
+    border: 1px solid rgb(10, 0, 0);
+    background:none;
+ }
+ #buyitnow{
+    cursor: pointer;
+    height: 40px;
+    width: 400px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: black;
+    color: white;
+    
+ }
+
+.parent{
+       display: flex;
+}
+
+
+
+ #buttton{
+    display: flex;
+ }
+
+
+ *{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins',sans-serif;
+}
+
+
+
+ 
+ 
+ #perfect{
+    text-align: center;
+    background-color: lightgray;
+    height: 250px;
+    width:950px;
+ }
+ #createbtn{
+    cursor: pointer;
+    height: 50px;
+    width: 250px;
+    background: none;
+    border-color: rgb(133, 132, 132);
+}
+.features{
+    height:300px;
+    width: 225px;
+    margin-left: 10px;  
+}
+#features{
+    display: flex;
+}
+#box5{
+    height:200px;
+    width: 225px;
+    background-image: url(../img\ 5.jpeg);
+}
+#box6{
+    height:200px;
+    width: 225px;
+    background-image: url(../img\ 6.jpeg);
+}
+#box7{
+    height:200px;
+    width: 225px;
+    background-image: url(../img\ 7.jpeg);
+}
+#box8{
+    height:200px;
+    width: 225px;
+    background-image: url(../img\ 8.jpeg);
+}
