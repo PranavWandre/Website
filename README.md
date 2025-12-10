@@ -35,8 +35,3 @@ It includes product images, color selection, size selection, quantity buttons, a
 ### ✅ Features Section
 - Product features with images  
 - Clean layout and responsive blocks
-
----
-
-## 📁 Folder Structure
-
